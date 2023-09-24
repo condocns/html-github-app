@@ -1,2 +1,2 @@
-# -html-github-app
+# html-github-app
 for learn github
